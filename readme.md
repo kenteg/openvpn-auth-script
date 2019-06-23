@@ -1,6 +1,6 @@
 # OpenVPN auth script
 
-Hi! This is Python scripts for enable password authentification on your own openVPN server. Its uses file to save credentials.
+Hi! This is Python scripts for enable password authentication on your own openVPN server. Its uses file to save credentials.
 
 # Setup
 
